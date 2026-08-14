@@ -39,7 +39,7 @@ Libraries to import, export and manipulate URDF files.
 
 * [urdf\_parser\_py](https://github.com/ros/urdf_parser_py) ⭐ 109 | 🐛 21 | 🌐 Python | 📅 2025-12-18 - Reference Python URDF parser mantained by OpenRobotics. \[BSD]
 * [odio\_urdf](https://github.com/hauptmech/odio_urdf) ⭐ 105 | 🐛 4 | 🌐 Python | 📅 2023-12-15 - Library for building URDF files using Python. \[MIT]
-* [compas\_robots](https://github.com/compas-dev/compas_robots/) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-08-10 - URDF parser & writer in Python based on the COMPAS framework. \[MIT]
+* [compas\_robots](https://github.com/compas-dev/compas_robots/) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-08-13 - URDF parser & writer in Python based on the COMPAS framework. \[MIT]
 
 #### MATLAB/Simulink
 
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

@@ -83,7 +83,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T11:05:01Z",
+            "last_commit": "2026-08-13T19:17:57Z",
             "owner": "compas-dev",
             "repo": "compas_robots",
             "stars": 4
@@ -255,7 +255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:24:36.847Z",
+    "last_updated": "2026-08-14T00:02:07.330Z",
     "original_repository": "gbionics/awesome-urdf",
     "original_repository_sha": "00464cb973f5ac68736f4350dff97f17a3859b24",
     "enhanced_repository": "enhansome/enhansome-urdf",
