@@ -148,7 +148,7 @@
             "last_commit": "2026-03-29T09:33:11Z",
             "owner": "Democratizing-Dexterous",
             "repo": "URDFly",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -255,7 +255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:02:07.330Z",
+    "last_updated": "2026-08-14T23:40:59.246Z",
     "original_repository": "gbionics/awesome-urdf",
     "original_repository_sha": "00464cb973f5ac68736f4350dff97f17a3859b24",
     "enhanced_repository": "enhansome/enhansome-urdf",
