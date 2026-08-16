@@ -229,7 +229,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-01-20T11:59:56Z",
+            "last_commit": "2026-08-16T18:52:38Z",
             "owner": "jupytercad",
             "repo": "JupyterCAD-urdf",
             "stars": 5
@@ -255,7 +255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:37:41.335Z",
+    "last_updated": "2026-08-16T23:37:36.296Z",
     "original_repository": "gbionics/awesome-urdf",
     "original_repository_sha": "00464cb973f5ac68736f4350dff97f17a3859b24",
     "enhanced_repository": "enhansome/enhansome-urdf",
