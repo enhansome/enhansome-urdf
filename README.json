@@ -190,7 +190,7 @@
             "last_commit": "2026-04-07T10:08:51Z",
             "owner": "ros",
             "repo": "xacro",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -255,7 +255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:37:36.296Z",
+    "last_updated": "2026-08-17T23:41:24.851Z",
     "original_repository": "gbionics/awesome-urdf",
     "original_repository_sha": "00464cb973f5ac68736f4350dff97f17a3859b24",
     "enhanced_repository": "enhansome/enhansome-urdf",
