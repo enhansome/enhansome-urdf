@@ -248,7 +248,7 @@
                 "last_commit": "2026-08-16T18:52:38Z",
                 "owner": "jupytercad",
                 "repo": "JupyterCAD-urdf",
-                "stars": 5
+                "stars": 6
               }
             }
           ],
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:58:21.852Z",
+    "last_updated": "2026-08-19T23:41:05.315Z",
     "original_repository": "gbionics/awesome-urdf",
     "original_repository_id": 424941534,
     "original_repository_sha": "00464cb973f5ac68736f4350dff97f17a3859b24",

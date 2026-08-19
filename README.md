@@ -59,7 +59,7 @@ Libraries to import, export and manipulate URDF files.
 
 ### Resources
 
-* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,637 | 🐛 3 | 📅 2026-08-04 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
+* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,636 | 🐛 3 | 📅 2026-08-04 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
 
 ### Tools
 
@@ -72,7 +72,7 @@ Libraries to import, export and manipulate URDF files.
 * [xacro](https://github.com/ros/xacro) ⭐ 125 | 🐛 11 | 🌐 Python | 📅 2026-04-07 - Xacro is an XML macro language. With xacro, you can construct shorter and more readable XML files by using macros that expand to larger XML expressions. Xacro is frequently used to mantain URDF models. \[BSD]
 * [blender-robotics-utils](https://github.com/robotology/blender-robotics-utils) ⭐ 83 | 🐛 9 | 🌐 Python | 📅 2024-12-04 - Set of utilities for exporting/controlling your robot in [Blender](https://www.blender.org/). It includes a URDF to Blender model converter. \[BSD]
 * [xacrodoc](https://github.com/adamheins/xacrodoc) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2026-04-20 - A wrapper around xacro providing friendly interfaces to compile xacro files to plain URDF or MJCF from Python or the command line. No ROS installation is required.
-* [jupytercad\_urdf](https://github.com/jupytercad/JupyterCAD-urdf/) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-16 - A JupyterLab extension allowing export of CAD designs to URDF.
+* [jupytercad\_urdf](https://github.com/jupytercad/JupyterCAD-urdf/) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-16 - A JupyterLab extension allowing export of CAD designs to URDF.
 * [Foxglove Studio](https://foxglove.dev/urdf) - Visualization app for web or desktop, supports URDFs as well as arbitrary bag or [MCAP](https://mcap.dev) data. \[MPL-2.0]
 * [urdf-loaders](https://gkjohnson.github.io/urdf-loaders/javascript/example/bundle/) - URDF visualizer running in modern Web browsers with support for drag-and-dropping a full description directory. \[APACHE2]
 
