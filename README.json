@@ -2,261 +2,268 @@
   "items": [
     {
       "description": "There is no versioned specification of the URDF format. The main reference for the URDF format are the ROS wiki docs on URDF.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "iDynTree",
+                  "description": "Library for kinematics and dynamics computation of free-floating robot model, with support for import and export of URDF files. It includes Python and MATLAB bindings. [BSD]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17824536,
+                    "language": "C++",
+                    "last_commit": "2026-07-27T10:29:50Z",
+                    "owner": "gbionics",
+                    "repo": "idyntree",
+                    "stars": 235
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "urdfdom",
+                  "description": "Reference C++ URDF parser implementation mantained by OpenRobotics. [BSD]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12067406,
+                    "language": "C++",
+                    "last_commit": "2026-07-30T07:14:00Z",
+                    "owner": "ros",
+                    "repo": "urdfdom",
+                    "stars": 133
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C++"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "urdf_parser_py",
+                  "description": "Reference Python URDF parser mantained by OpenRobotics. [BSD]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52289083,
+                    "language": "Python",
+                    "last_commit": "2025-12-18T14:02:09Z",
+                    "owner": "ros",
+                    "repo": "urdf_parser_py",
+                    "stars": 109
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "odio_urdf",
+                  "description": "Library for building URDF files using Python. [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 58005206,
+                    "language": "Python",
+                    "last_commit": "2023-12-15T13:52:14Z",
+                    "owner": "hauptmech",
+                    "repo": "odio_urdf",
+                    "stars": 105
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "compas_robots",
+                  "description": "URDF parser & writer in Python based on the COMPAS framework. [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 693516630,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T19:17:57Z",
+                    "owner": "compas-dev",
+                    "repo": "compas_robots",
+                    "stars": 4
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Python"
+            }
+          ],
+          "description": "Libraries to import, export and manipulate URDF files.",
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "urdf-viz",
+              "description": "Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux. [APACHE2]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100389791,
+                "language": "Rust",
+                "last_commit": "2026-06-19T09:02:28Z",
+                "owner": "openrr",
+                "repo": "urdf-viz",
+                "stars": 587
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unity-Technologies/URDF-Importer",
+              "description": "URDF Importer allows you to import a robot defined in URDF format in a Unity scene. [APACHE]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310117458,
+                "language": "C#",
+                "last_commit": "2023-10-02T16:23:25Z",
+                "owner": "Unity-Technologies",
+                "repo": "URDF-Importer",
+                "stars": 333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yourdfpy",
+              "description": "Library and command-line tool to load, visualize, manipulate, validate and save URDF files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417715325,
+                "language": "Python",
+                "last_commit": "2026-05-10T07:10:35Z",
+                "owner": "clemense",
+                "repo": "yourdfpy",
+                "stars": 293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "URDFly",
+              "description": "URDFly is a Python-based toolkit for working with URDF files, providing tools for parsing, visualizing, and analyzing robotic systems defined in URDF format, with a focus on axes visulazation, urdf editing, MDH parameter conversion, kinematics calculation, and dynamics regressor codegen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1039910946,
+                "language": "Python",
+                "last_commit": "2026-03-29T09:33:11Z",
+                "owner": "Democratizing-Dexterous",
+                "repo": "URDFly",
+                "stars": 246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "URDFormer",
+              "description": "Given an image, URDFormer predicts its corresponding interactive 'digital twin' in the URDF format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 774577185,
+                "language": "Python",
+                "last_commit": "2024-08-08T16:12:38Z",
+                "owner": "WEIRDLabUW",
+                "repo": "urdformer",
+                "stars": 203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bubblify",
+              "description": "Bubblify is an interactive tool for creating spherical approximations of robot geometries directly from Universal Robot Description Format (URDF) specifications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1053285963,
+                "language": "Python",
+                "last_commit": "2025-09-09T08:54:48Z",
+                "owner": "bheijden",
+                "repo": "bubblify",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xacro",
+              "description": "Xacro is an XML macro language. With xacro, you can construct shorter and more readable XML files by using macros that expand to larger XML expressions. Xacro is frequently used to mantain URDF models. [BSD]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8467808,
+                "language": "Python",
+                "last_commit": "2026-04-07T10:08:51Z",
+                "owner": "ros",
+                "repo": "xacro",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "blender-robotics-utils",
+              "description": "Set of utilities for exporting/controlling your robot in Blender. It includes a URDF to Blender model converter. [BSD]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390279015,
+                "language": "Python",
+                "last_commit": "2024-12-04T10:25:24Z",
+                "owner": "robotology",
+                "repo": "blender-robotics-utils",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xacrodoc",
+              "description": "A wrapper around xacro providing friendly interfaces to compile xacro files to plain URDF or MJCF from Python or the command line. No ROS installation is required.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 755276393,
+                "language": "Python",
+                "last_commit": "2026-04-20T15:18:19Z",
+                "owner": "adamheins",
+                "repo": "xacrodoc",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jupytercad_urdf",
+              "description": "A JupyterLab extension allowing export of CAD designs to URDF.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1000080630,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T18:52:38Z",
+                "owner": "jupytercad",
+                "repo": "JupyterCAD-urdf",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        }
+      ],
       "title": "URDF"
-    },
-    {
-      "description": "Libraries to import, export and manipulate URDF files.",
-      "items": [],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "iDynTree",
-          "description": "Library for kinematics and dynamics computation of free-floating robot model, with support for import and export of URDF files. It includes Python and MATLAB bindings. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-27T10:29:50Z",
-            "owner": "gbionics",
-            "repo": "idyntree",
-            "stars": 235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "urdfdom",
-          "description": "Reference C++ URDF parser implementation mantained by OpenRobotics. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-30T07:14:00Z",
-            "owner": "ros",
-            "repo": "urdfdom",
-            "stars": 133
-          }
-        }
-      ],
-      "title": "C++"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "urdf_parser_py",
-          "description": "Reference Python URDF parser mantained by OpenRobotics. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-18T14:02:09Z",
-            "owner": "ros",
-            "repo": "urdf_parser_py",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "odio_urdf",
-          "description": "Library for building URDF files using Python. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-15T13:52:14Z",
-            "owner": "hauptmech",
-            "repo": "odio_urdf",
-            "stars": 105
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "compas_robots",
-          "description": "URDF parser & writer in Python based on the COMPAS framework. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T19:17:57Z",
-            "owner": "compas-dev",
-            "repo": "compas_robots",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "urdf-viz",
-          "description": "Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux. [APACHE2]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-19T09:02:28Z",
-            "owner": "openrr",
-            "repo": "urdf-viz",
-            "stars": 587
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Unity-Technologies/URDF-Importer",
-          "description": "URDF Importer allows you to import a robot defined in URDF format in a Unity scene. [APACHE]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-10-02T16:23:25Z",
-            "owner": "Unity-Technologies",
-            "repo": "URDF-Importer",
-            "stars": 333
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yourdfpy",
-          "description": "Library and command-line tool to load, visualize, manipulate, validate and save URDF files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-10T07:10:35Z",
-            "owner": "clemense",
-            "repo": "yourdfpy",
-            "stars": 293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "URDFly",
-          "description": "URDFly is a Python-based toolkit for working with URDF files, providing tools for parsing, visualizing, and analyzing robotic systems defined in URDF format, with a focus on axes visulazation, urdf editing, MDH parameter conversion, kinematics calculation, and dynamics regressor codegen.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-29T09:33:11Z",
-            "owner": "Democratizing-Dexterous",
-            "repo": "URDFly",
-            "stars": 245
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "URDFormer",
-          "description": "Given an image, URDFormer predicts its corresponding interactive 'digital twin' in the URDF format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-08T16:12:38Z",
-            "owner": "WEIRDLabUW",
-            "repo": "urdformer",
-            "stars": 203
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bubblify",
-          "description": "Bubblify is an interactive tool for creating spherical approximations of robot geometries directly from Universal Robot Description Format (URDF) specifications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-09T08:54:48Z",
-            "owner": "bheijden",
-            "repo": "bubblify",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xacro",
-          "description": "Xacro is an XML macro language. With xacro, you can construct shorter and more readable XML files by using macros that expand to larger XML expressions. Xacro is frequently used to mantain URDF models. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-07T10:08:51Z",
-            "owner": "ros",
-            "repo": "xacro",
-            "stars": 125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "blender-robotics-utils",
-          "description": "Set of utilities for exporting/controlling your robot in Blender. It includes a URDF to Blender model converter. [BSD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-04T10:25:24Z",
-            "owner": "robotology",
-            "repo": "blender-robotics-utils",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xacrodoc",
-          "description": "A wrapper around xacro providing friendly interfaces to compile xacro files to plain URDF or MJCF from Python or the command line. No ROS installation is required.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-20T15:18:19Z",
-            "owner": "adamheins",
-            "repo": "xacrodoc",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jupytercad_urdf",
-          "description": "A JupyterLab extension allowing export of CAD designs to URDF.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T18:52:38Z",
-            "owner": "jupytercad",
-            "repo": "JupyterCAD-urdf",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Tools"
-    },
-    {
-      "description": "Several libraries and groups have extended the URDF format beyond the official specs, a brief list is provided in the file.",
-      "items": [],
-      "title": "Extensions"
-    },
-    {
-      "description": "Contributions are welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:40:51.327Z",
+    "last_updated": "2026-08-19T12:58:21.852Z",
     "original_repository": "gbionics/awesome-urdf",
+    "original_repository_id": 424941534,
     "original_repository_sha": "00464cb973f5ac68736f4350dff97f17a3859b24",
     "enhanced_repository": "enhansome/enhansome-urdf",
     "enhanced_repository_description": null,
