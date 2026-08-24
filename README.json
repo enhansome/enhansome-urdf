@@ -93,11 +93,99 @@
               "description": null,
               "node_type": "group",
               "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "urdf-rs",
+                  "description": "URDF parser using serde-xml-rs for Rust. [APACHE2]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88333609,
+                    "language": "Rust",
+                    "last_commit": "2026-06-30T14:53:14Z",
+                    "owner": "openrr",
+                    "repo": "urdf-rs",
+                    "stars": 49
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Rust"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MeshCatMechanisms.jl",
+                  "description": "3D Visualization of mechanisms and URDFs using MeshCat.jl and RigidBodyDynamics.jl . [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 122254961,
+                    "language": "Julia",
+                    "last_commit": "2024-12-05T10:00:59Z",
+                    "owner": "JuliaRobotics",
+                    "repo": "MeshCatMechanisms.jl",
+                    "stars": 42
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Julia"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "urdf-go",
+                  "description": "URDF parser using the XML decorators of Golang for efficient reading.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1085419921,
+                    "language": "Go",
+                    "last_commit": "2026-05-01T01:37:21Z",
+                    "owner": "WrenchRobotics",
+                    "repo": "urdf-go",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Go (Golang)"
             }
           ],
           "description": "Libraries to import, export and manipulate URDF files.",
           "node_type": "group",
           "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Robot Descriptions",
+              "description": "A curated list of awesome robot descriptions, most in URDF or Xacro formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 478093237,
+                "language": null,
+                "last_commit": "2026-08-04T09:53:46Z",
+                "owner": "robot-descriptions",
+                "repo": "awesome-robot-descriptions",
+                "stars": 1638
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Resources"
         },
         {
           "children": [
@@ -188,7 +276,7 @@
                 "last_commit": "2025-09-09T08:54:48Z",
                 "owner": "bheijden",
                 "repo": "bubblify",
-                "stars": 152
+                "stars": 153
               }
             },
             {
@@ -261,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:39:08.205Z",
+    "last_updated": "2026-08-24T14:35:58.042Z",
     "original_repository": "gbionics/awesome-urdf",
     "original_repository_id": 424941534,
     "original_repository_sha": "00464cb973f5ac68736f4350dff97f17a3859b24",

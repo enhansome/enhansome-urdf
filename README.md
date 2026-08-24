@@ -68,7 +68,7 @@ Libraries to import, export and manipulate URDF files.
 * [yourdfpy](https://github.com/clemense/yourdfpy) ⭐ 293 | 🐛 20 | 🌐 Python | 📅 2026-05-10 - Library and command-line tool to load, visualize, manipulate, validate and save URDF files.
 * [URDFly](https://github.com/Democratizing-Dexterous/URDFly) ⭐ 248 | 🐛 5 | 🌐 Python | 📅 2026-03-29 - URDFly is a Python-based toolkit for working with URDF files, providing tools for parsing, visualizing, and analyzing robotic systems defined in URDF format, with a focus on axes visulazation, urdf editing, MDH parameter conversion, kinematics calculation, and dynamics regressor codegen.
 * [URDFormer](https://github.com/WEIRDLabUW/urdformer) ⭐ 203 | 🐛 7 | 🌐 Python | 📅 2024-08-08 - Given an image, URDFormer predicts its corresponding interactive 'digital twin' in the URDF format.
-* [bubblify](https://github.com/bheijden/bubblify) ⭐ 152 | 🐛 2 | 🌐 Python | 📅 2025-09-09 - Bubblify is an interactive tool for creating spherical approximations of robot geometries directly from Universal Robot Description Format (URDF) specifications
+* [bubblify](https://github.com/bheijden/bubblify) ⭐ 153 | 🐛 2 | 🌐 Python | 📅 2025-09-09 - Bubblify is an interactive tool for creating spherical approximations of robot geometries directly from Universal Robot Description Format (URDF) specifications
 * [xacro](https://github.com/ros/xacro) ⭐ 125 | 🐛 11 | 🌐 Python | 📅 2026-04-07 - Xacro is an XML macro language. With xacro, you can construct shorter and more readable XML files by using macros that expand to larger XML expressions. Xacro is frequently used to mantain URDF models. \[BSD]
 * [blender-robotics-utils](https://github.com/robotology/blender-robotics-utils) ⭐ 83 | 🐛 9 | 🌐 Python | 📅 2024-12-04 - Set of utilities for exporting/controlling your robot in [Blender](https://www.blender.org/). It includes a URDF to Blender model converter. \[BSD]
 * [xacrodoc](https://github.com/adamheins/xacrodoc) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2026-04-20 - A wrapper around xacro providing friendly interfaces to compile xacro files to plain URDF or MJCF from Python or the command line. No ROS installation is required.
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
