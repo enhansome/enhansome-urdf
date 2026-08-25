@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-04T09:53:46Z",
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1638
+                "stars": 1639
               }
             }
           ],
@@ -349,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:30:05.476Z",
+    "last_updated": "2026-08-25T23:42:13.552Z",
     "original_repository": "gbionics/awesome-urdf",
     "original_repository_id": 424941534,
     "original_repository_sha": "00464cb973f5ac68736f4350dff97f17a3859b24",
