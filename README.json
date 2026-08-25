@@ -201,7 +201,7 @@
                 "last_commit": "2026-06-19T09:02:28Z",
                 "owner": "openrr",
                 "repo": "urdf-viz",
-                "stars": 589
+                "stars": 590
               }
             },
             {
@@ -349,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:40:39.043Z",
+    "last_updated": "2026-08-25T06:30:05.476Z",
     "original_repository": "gbionics/awesome-urdf",
     "original_repository_id": 424941534,
     "original_repository_sha": "00464cb973f5ac68736f4350dff97f17a3859b24",
