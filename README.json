@@ -349,9 +349,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:32:48.364Z",
-    "original_repository": "gbionics/awesome-urdf",
-    "original_repository_id": 424941534,
+    "last_updated": "2026-08-27T12:07:21.925Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 424941534,
+      "language": null,
+      "last_commit": "2026-08-05T18:21:25Z",
+      "owner": "gbionics",
+      "repo": "awesome-urdf",
+      "stars": 163
+    },
     "original_repository_sha": "00464cb973f5ac68736f4350dff97f17a3859b24",
     "enhanced_repository": "enhansome/enhansome-urdf",
     "enhanced_repository_description": null,
