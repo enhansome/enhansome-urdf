@@ -20,7 +20,8 @@
                     "owner": "gbionics",
                     "repo": "idyntree",
                     "stars": 235
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:19.043Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "ros",
                     "repo": "urdfdom",
                     "stars": 134
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:19.043Z"
                 }
               ],
               "description": null,
@@ -57,7 +59,8 @@
                     "owner": "ros",
                     "repo": "urdf_parser_py",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:19.043Z"
                 },
                 {
                   "node_type": "item",
@@ -72,7 +75,8 @@
                     "owner": "hauptmech",
                     "repo": "odio_urdf",
                     "stars": 105
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:19.043Z"
                 },
                 {
                   "node_type": "item",
@@ -87,7 +91,8 @@
                     "owner": "compas-dev",
                     "repo": "compas_robots",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:19.043Z"
                 }
               ],
               "description": null,
@@ -109,7 +114,8 @@
                     "owner": "openrr",
                     "repo": "urdf-rs",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:19.043Z"
                 }
               ],
               "description": null,
@@ -131,7 +137,8 @@
                     "owner": "JuliaRobotics",
                     "repo": "MeshCatMechanisms.jl",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:19.043Z"
                 }
               ],
               "description": null,
@@ -153,7 +160,8 @@
                     "owner": "WrenchRobotics",
                     "repo": "urdf-go",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:19.043Z"
                 }
               ],
               "description": null,
@@ -180,7 +188,8 @@
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
                 "stars": 1642
-              }
+              },
+              "first_seen": "2026-08-28T06:57:19.043Z"
             }
           ],
           "description": null,
@@ -202,7 +211,8 @@
                 "owner": "openrr",
                 "repo": "urdf-viz",
                 "stars": 590
-              }
+              },
+              "first_seen": "2026-08-28T06:57:19.043Z"
             },
             {
               "node_type": "item",
@@ -216,8 +226,9 @@
                 "last_commit": "2023-10-02T16:23:25Z",
                 "owner": "Unity-Technologies",
                 "repo": "URDF-Importer",
-                "stars": 334
-              }
+                "stars": 335
+              },
+              "first_seen": "2026-08-28T06:57:19.043Z"
             },
             {
               "node_type": "item",
@@ -232,7 +243,8 @@
                 "owner": "clemense",
                 "repo": "yourdfpy",
                 "stars": 293
-              }
+              },
+              "first_seen": "2026-08-28T06:57:19.043Z"
             },
             {
               "node_type": "item",
@@ -247,7 +259,8 @@
                 "owner": "Democratizing-Dexterous",
                 "repo": "URDFly",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T06:57:19.043Z"
             },
             {
               "node_type": "item",
@@ -262,7 +275,8 @@
                 "owner": "WEIRDLabUW",
                 "repo": "urdformer",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T06:57:19.043Z"
             },
             {
               "node_type": "item",
@@ -277,7 +291,8 @@
                 "owner": "bheijden",
                 "repo": "bubblify",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T06:57:19.043Z"
             },
             {
               "node_type": "item",
@@ -292,7 +307,8 @@
                 "owner": "ros",
                 "repo": "xacro",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T06:57:19.043Z"
             },
             {
               "node_type": "item",
@@ -307,7 +323,8 @@
                 "owner": "robotology",
                 "repo": "blender-robotics-utils",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T06:57:19.043Z"
             },
             {
               "node_type": "item",
@@ -322,7 +339,8 @@
                 "owner": "adamheins",
                 "repo": "xacrodoc",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T06:57:19.043Z"
             },
             {
               "node_type": "item",
@@ -337,7 +355,8 @@
                 "owner": "jupytercad",
                 "repo": "JupyterCAD-urdf",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T06:57:19.043Z"
             }
           ],
           "description": null,
@@ -349,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:07:21.925Z",
+    "last_updated": "2026-08-28T06:57:19.043Z",
     "original_repository_info": {
       "archived": false,
       "id": 424941534,
