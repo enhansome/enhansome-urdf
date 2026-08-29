@@ -14,12 +14,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multibody Dynamics Library designed for Free Floating Robots ",
+                    "homepage": null,
                     "id": 17824536,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-27T10:29:50Z",
+                    "open_issues": 196,
                     "owner": "gbionics",
                     "repo": "idyntree",
-                    "stars": 235
+                    "stars": 235,
+                    "topics": [
+                      "cxx",
+                      "dynamics",
+                      "floating-base",
+                      "free-floating",
+                      "multibody-dynamics",
+                      "python",
+                      "robot",
+                      "robotics",
+                      "robotics-libraries",
+                      "urdf",
+                      "urdf-parser"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:19.043Z"
                 },
@@ -30,12 +47,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "URDF parser",
+                    "homepage": "http://ros.org/wiki/urdf",
                     "id": 12067406,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-30T07:14:00Z",
+                    "open_issues": 56,
                     "owner": "ros",
                     "repo": "urdfdom",
-                    "stars": 134
+                    "stars": 134,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:19.043Z"
                 }
@@ -53,12 +75,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Standalone URDF parser for Python.",
+                    "homepage": null,
                     "id": 52289083,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-12-18T14:02:09Z",
+                    "open_issues": 21,
                     "owner": "ros",
                     "repo": "urdf_parser_py",
-                    "stars": 109
+                    "stars": 109,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:19.043Z"
                 },
@@ -69,12 +96,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Create URDF directly in python instead of wading through XML and Xacro",
+                    "homepage": null,
                     "id": 58005206,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-12-15T13:52:14Z",
+                    "open_issues": 4,
                     "owner": "hauptmech",
                     "repo": "odio_urdf",
-                    "stars": 105
+                    "stars": 105,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:19.043Z"
                 },
@@ -85,12 +117,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Basic infrastructure for working with robots in COMPAS.",
+                    "homepage": "http://compas.dev/compas_robots/",
                     "id": 693516630,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-13T19:17:57Z",
+                    "open_issues": 5,
                     "owner": "compas-dev",
                     "repo": "compas_robots",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "aec",
+                      "kinematics",
+                      "python",
+                      "robotics",
+                      "robots"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:19.043Z"
                 }
@@ -108,12 +151,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "URDF parser for Rust",
+                    "homepage": null,
                     "id": 88333609,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-30T14:53:14Z",
+                    "open_issues": 9,
                     "owner": "openrr",
                     "repo": "urdf-rs",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": [
+                      "robot",
+                      "robotics",
+                      "ros",
+                      "rust",
+                      "urdf"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:19.043Z"
                 }
@@ -131,12 +185,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "3D Visualization of mechanisms and URDFs using MeshCat.jl and RigidBodyDynamics.jl",
+                    "homepage": null,
                     "id": 122254961,
                     "language": "Julia",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-12-05T10:00:59Z",
+                    "open_issues": 3,
                     "owner": "JuliaRobotics",
                     "repo": "MeshCatMechanisms.jl",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": [
+                      "3d",
+                      "julia",
+                      "robotics",
+                      "urdf",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:19.043Z"
                 }
@@ -154,12 +219,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A library for decoding (i.e., reading) URDF files written in pure Golang.",
+                    "homepage": null,
                     "id": 1085419921,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-05-01T01:37:21Z",
+                    "open_issues": 0,
                     "owner": "WrenchRobotics",
                     "repo": "urdf-go",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "parsing",
+                      "robotics",
+                      "urdf"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:19.043Z"
                 }
@@ -182,12 +256,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
+                "homepage": null,
                 "id": 478093237,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-04T09:53:46Z",
+                "open_issues": 3,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1642
+                "stars": 1644,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "biped",
+                  "humanoid",
+                  "legged-robots",
+                  "mjcf",
+                  "quadruped",
+                  "robot",
+                  "robotics",
+                  "urdf",
+                  "urdf-descriptions",
+                  "urdf-models"
+                ]
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
             }
@@ -205,12 +297,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux",
+                "homepage": null,
                 "id": 100389791,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-19T09:02:28Z",
+                "open_issues": 17,
                 "owner": "openrr",
                 "repo": "urdf-viz",
-                "stars": 590
+                "stars": 590,
+                "topics": [
+                  "assimp",
+                  "inverse-kinematics",
+                  "robotics",
+                  "ros",
+                  "rust",
+                  "rust-lang",
+                  "urdf",
+                  "visualization",
+                  "xacro"
+                ]
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
             },
@@ -221,12 +328,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF importer",
+                "homepage": null,
                 "id": 310117458,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-02T16:23:25Z",
+                "open_issues": 36,
                 "owner": "Unity-Technologies",
                 "repo": "URDF-Importer",
-                "stars": 335
+                "stars": 335,
+                "topics": [
+                  "robot",
+                  "robot-model",
+                  "robot-simulation",
+                  "robotics",
+                  "robotics-development",
+                  "robotics-simulation",
+                  "ros",
+                  "simulation",
+                  "unity",
+                  "unity-robotics",
+                  "urdf"
+                ]
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
             },
@@ -237,12 +361,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python parser for URDFs",
+                "homepage": null,
                 "id": 417715325,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-10T07:10:35Z",
+                "open_issues": 19,
                 "owner": "clemense",
                 "repo": "yourdfpy",
-                "stars": 293
+                "stars": 293,
+                "topics": [
+                  "kinematics",
+                  "robotics",
+                  "ros",
+                  "urdf",
+                  "urdf-descriptions",
+                  "urdf-models",
+                  "urdf-parser",
+                  "urdf-visualizer"
+                ]
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
             },
@@ -253,12 +391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1039910946,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-29T09:33:11Z",
+                "open_issues": 5,
                 "owner": "Democratizing-Dexterous",
                 "repo": "URDFly",
-                "stars": 248
+                "stars": 248,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
             },
@@ -269,12 +412,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code release for URDFormer",
+                "homepage": null,
                 "id": 774577185,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-08T16:12:38Z",
+                "open_issues": 7,
                 "owner": "WEIRDLabUW",
                 "repo": "urdformer",
-                "stars": 203
+                "stars": 203,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
             },
@@ -285,12 +433,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bubblify is an interactive tool for creating spherical approximations of robot geometries directly from Universal Robot Description Format (URDF) specifications. It provides an intuitive 3D interface for placing collision spheres on robot links, enabling efficient collision checking for motion planning applications.",
+                "homepage": null,
                 "id": 1053285963,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-09T08:54:48Z",
+                "open_issues": 2,
                 "owner": "bheijden",
                 "repo": "bubblify",
-                "stars": 153
+                "stars": 153,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
             },
@@ -301,12 +454,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xacro is an XML macro language. With xacro, you can construct shorter and more readable XML files by using macros that expand to larger XML expressions.",
+                "homepage": "https://github.com/ros/xacro/wiki",
                 "id": 8467808,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-07T10:08:51Z",
+                "open_issues": 11,
                 "owner": "ros",
                 "repo": "xacro",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
             },
@@ -317,12 +475,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of utilities for exporting/controlling your robot in Blender",
+                "homepage": null,
                 "id": 390279015,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-04T10:25:24Z",
+                "open_issues": 9,
                 "owner": "robotology",
                 "repo": "blender-robotics-utils",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "blender",
+                  "humanoid-robot",
+                  "idyntree",
+                  "python",
+                  "robotics",
+                  "robots",
+                  "urdf",
+                  "urdf-models",
+                  "urdf-parser"
+                ]
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
             },
@@ -333,12 +506,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compile xacro files to plain URDF or MJCF from Python or the command line (no ROS required).",
+                "homepage": "https://xacrodoc.readthedocs.io/en/latest/",
                 "id": 755276393,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-20T15:18:19Z",
+                "open_issues": 0,
                 "owner": "adamheins",
                 "repo": "xacrodoc",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "mjcf",
+                  "python",
+                  "robotics",
+                  "ros",
+                  "urdf",
+                  "xacro"
+                ]
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
             },
@@ -349,12 +534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1000080630,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-16T18:52:38Z",
+                "open_issues": 1,
                 "owner": "jupytercad",
                 "repo": "JupyterCAD-urdf",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
             }
@@ -368,15 +558,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:57:19.043Z",
+    "last_updated": "2026-08-29T04:11:28.301Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
+      "homepage": null,
       "id": 424941534,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-05T18:21:25Z",
+      "open_issues": 0,
       "owner": "gbionics",
       "repo": "awesome-urdf",
-      "stars": 163
+      "stars": 163,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "urdf",
+        "urdf-descriptions",
+        "urdf-model",
+        "urdf-models",
+        "urdf-parser",
+        "urdf-visualizer"
+      ]
     },
     "original_repository_sha": "00464cb973f5ac68736f4350dff97f17a3859b24",
     "enhanced_repository": "enhansome/enhansome-urdf",
