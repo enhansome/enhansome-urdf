@@ -421,7 +421,7 @@
                 "open_issues": 7,
                 "owner": "WEIRDLabUW",
                 "repo": "urdformer",
-                "stars": 203,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:04:24.470Z",
+    "last_updated": "2026-09-03T01:10:22.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
