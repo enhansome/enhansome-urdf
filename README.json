@@ -265,7 +265,7 @@
                 "open_issues": 3,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1651,
+                "stars": 1652,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -543,7 +543,7 @@
                 "open_issues": 1,
                 "owner": "jupytercad",
                 "repo": "JupyterCAD-urdf",
-                "stars": 7,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:02:52.521Z",
+    "last_updated": "2026-09-05T01:03:27.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
