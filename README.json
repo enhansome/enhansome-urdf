@@ -265,7 +265,7 @@
                 "open_issues": 3,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1653,
+                "stars": 1654,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -400,7 +400,7 @@
                 "open_issues": 5,
                 "owner": "Democratizing-Dexterous",
                 "repo": "URDFly",
-                "stars": 251,
+                "stars": 252,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:17:07.145Z",
+    "last_updated": "2026-09-10T01:09:19.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
