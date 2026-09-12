@@ -84,7 +84,7 @@
                     "open_issues": 21,
                     "owner": "ros",
                     "repo": "urdf_parser_py",
-                    "stars": 109,
+                    "stars": 108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:19.043Z"
@@ -337,7 +337,7 @@
                 "open_issues": 36,
                 "owner": "Unity-Technologies",
                 "repo": "URDF-Importer",
-                "stars": 335,
+                "stars": 334,
                 "topics": [
                   "robot",
                   "robot-model",
@@ -370,7 +370,7 @@
                 "open_issues": 19,
                 "owner": "clemense",
                 "repo": "yourdfpy",
-                "stars": 293,
+                "stars": 292,
                 "topics": [
                   "kinematics",
                   "robotics",
@@ -442,7 +442,7 @@
                 "open_issues": 2,
                 "owner": "bheijden",
                 "repo": "bubblify",
-                "stars": 153,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:10:34.833Z",
+    "last_updated": "2026-09-12T01:12:12.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",

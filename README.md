@@ -37,7 +37,7 @@ Libraries to import, export and manipulate URDF files.
 
 #### Python
 
-* [urdf\_parser\_py](https://github.com/ros/urdf_parser_py) ⭐ 109 | 🐛 21 | 🌐 Python | 📅 2025-12-18 - Reference Python URDF parser mantained by OpenRobotics. \[BSD]
+* [urdf\_parser\_py](https://github.com/ros/urdf_parser_py) ⭐ 108 | 🐛 21 | 🌐 Python | 📅 2025-12-18 - Reference Python URDF parser mantained by OpenRobotics. \[BSD]
 * [odio\_urdf](https://github.com/hauptmech/odio_urdf) ⭐ 105 | 🐛 4 | 🌐 Python | 📅 2023-12-15 - Library for building URDF files using Python. \[MIT]
 * [compas\_robots](https://github.com/compas-dev/compas_robots/) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-08-13 - URDF parser & writer in Python based on the COMPAS framework. \[MIT]
 
@@ -64,11 +64,11 @@ Libraries to import, export and manipulate URDF files.
 ### Tools
 
 * [urdf-viz](https://github.com/openrr/urdf-viz) ⭐ 590 | 🐛 17 | 🌐 Rust | 📅 2026-06-19 - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux. \[APACHE2]
-* [Unity-Technologies/URDF-Importer](https://github.com/Unity-Technologies/URDF-Importer) ⭐ 335 | 🐛 36 | 🌐 C# | 📅 2023-10-02 - URDF Importer allows you to import a robot defined in URDF format in a [Unity scene](https://unity.com). \[APACHE]
-* [yourdfpy](https://github.com/clemense/yourdfpy) ⭐ 293 | 🐛 19 | 🌐 Python | 📅 2026-05-10 - Library and command-line tool to load, visualize, manipulate, validate and save URDF files.
+* [Unity-Technologies/URDF-Importer](https://github.com/Unity-Technologies/URDF-Importer) ⭐ 334 | 🐛 36 | 🌐 C# | 📅 2023-10-02 - URDF Importer allows you to import a robot defined in URDF format in a [Unity scene](https://unity.com). \[APACHE]
+* [yourdfpy](https://github.com/clemense/yourdfpy) ⭐ 292 | 🐛 19 | 🌐 Python | 📅 2026-05-10 - Library and command-line tool to load, visualize, manipulate, validate and save URDF files.
 * [URDFly](https://github.com/Democratizing-Dexterous/URDFly) ⭐ 252 | 🐛 5 | 🌐 Python | 📅 2026-03-29 - URDFly is a Python-based toolkit for working with URDF files, providing tools for parsing, visualizing, and analyzing robotic systems defined in URDF format, with a focus on axes visulazation, urdf editing, MDH parameter conversion, kinematics calculation, and dynamics regressor codegen.
 * [URDFormer](https://github.com/WEIRDLabUW/urdformer) ⭐ 205 | 🐛 7 | 🌐 Python | 📅 2024-08-08 - Given an image, URDFormer predicts its corresponding interactive 'digital twin' in the URDF format.
-* [bubblify](https://github.com/bheijden/bubblify) ⭐ 153 | 🐛 2 | 🌐 Python | 📅 2025-09-09 - Bubblify is an interactive tool for creating spherical approximations of robot geometries directly from Universal Robot Description Format (URDF) specifications
+* [bubblify](https://github.com/bheijden/bubblify) ⭐ 152 | 🐛 2 | 🌐 Python | 📅 2025-09-09 - Bubblify is an interactive tool for creating spherical approximations of robot geometries directly from Universal Robot Description Format (URDF) specifications
 * [xacro](https://github.com/ros/xacro) ⭐ 125 | 🐛 11 | 🌐 Python | 📅 2026-04-07 - Xacro is an XML macro language. With xacro, you can construct shorter and more readable XML files by using macros that expand to larger XML expressions. Xacro is frequently used to mantain URDF models. \[BSD]
 * [blender-robotics-utils](https://github.com/robotology/blender-robotics-utils) ⭐ 83 | 🐛 9 | 🌐 Python | 📅 2024-12-04 - Set of utilities for exporting/controlling your robot in [Blender](https://www.blender.org/). It includes a URDF to Blender model converter. \[BSD]
 * [xacrodoc](https://github.com/adamheins/xacrodoc) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2026-04-20 - A wrapper around xacro providing friendly interfaces to compile xacro files to plain URDF or MJCF from Python or the command line. No ROS installation is required.
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
