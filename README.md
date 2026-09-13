@@ -51,7 +51,7 @@ Libraries to import, export and manipulate URDF files.
 
 #### Julia
 
-* [MeshCatMechanisms.jl](https://github.com/JuliaRobotics/MeshCatMechanisms.jl) ⭐ 43 | 🐛 3 | 🌐 Julia | 📅 2024-12-05 - 3D Visualization of mechanisms and URDFs using [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) ⭐ 254 | 🐛 25 | 🌐 Julia | 📅 2025-10-14 and [RigidBodyDynamics.jl](https://github.com/JuliaRobotics/RigidBodyDynamics.jl) ⭐ 310 | 🐛 40 | 🌐 Julia | 📅 2024-11-08 . \[MIT]
+* [MeshCatMechanisms.jl](https://github.com/JuliaRobotics/MeshCatMechanisms.jl) ⭐ 43 | 🐛 3 | 🌐 Julia | 📅 2024-12-05 - 3D Visualization of mechanisms and URDFs using [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) ⭐ 253 | 🐛 25 | 🌐 Julia | 📅 2025-10-14 and [RigidBodyDynamics.jl](https://github.com/JuliaRobotics/RigidBodyDynamics.jl) ⭐ 310 | 🐛 40 | 🌐 Julia | 📅 2024-11-08 . \[MIT]
 
 #### Go (Golang)
 
@@ -59,7 +59,7 @@ Libraries to import, export and manipulate URDF files.
 
 ### Resources
 
-* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,656 | 🐛 3 | 📅 2026-08-04 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
+* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,656 | 🐛 2 | 📅 2026-09-12 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
 
 ### Tools
 
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
