@@ -515,7 +515,7 @@
                 "open_issues": 0,
                 "owner": "adamheins",
                 "repo": "xacrodoc",
-                "stars": 75,
+                "stars": 74,
                 "topics": [
                   "mjcf",
                   "python",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:12:24.004Z",
+    "last_updated": "2026-09-15T01:32:51.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
