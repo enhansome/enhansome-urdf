@@ -23,7 +23,7 @@
                     "open_issues": 196,
                     "owner": "gbionics",
                     "repo": "idyntree",
-                    "stars": 235,
+                    "stars": 234,
                     "topics": [
                       "cxx",
                       "dynamics",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:32:51.444Z",
+    "last_updated": "2026-09-16T01:28:29.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
