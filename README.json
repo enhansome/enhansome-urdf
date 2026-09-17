@@ -52,8 +52,8 @@
                     "id": 12067406,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-07-30T07:14:00Z",
-                    "open_issues": 56,
+                    "last_commit": "2026-09-16T11:51:52Z",
+                    "open_issues": 58,
                     "owner": "ros",
                     "repo": "urdfdom",
                     "stars": 136,
@@ -265,7 +265,7 @@
                 "open_issues": 2,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1656,
+                "stars": 1657,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:28:29.006Z",
+    "last_updated": "2026-09-17T01:30:22.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",

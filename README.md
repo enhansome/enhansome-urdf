@@ -32,7 +32,7 @@ Libraries to import, export and manipulate URDF files.
 #### C++
 
 * [iDynTree](https://github.com/robotology/idyntree) ⭐ 234 | 🐛 196 | 🌐 C++ | 📅 2026-07-27 - Library for kinematics and dynamics computation of free-floating robot model, with support for import and export of URDF files. It includes Python and MATLAB bindings. \[BSD]
-* [urdfdom](https://github.com/ros/urdfdom) ⭐ 136 | 🐛 56 | 🌐 C++ | 📅 2026-07-30 - Reference C++ URDF parser implementation mantained by OpenRobotics. \[BSD]
+* [urdfdom](https://github.com/ros/urdfdom) ⭐ 136 | 🐛 58 | 🌐 C++ | 📅 2026-09-16 - Reference C++ URDF parser implementation mantained by OpenRobotics. \[BSD]
 * [sdformat](http://sdformat.org/) - Reference C++ implementation of the SDFormat (Simulation Description Format), used in Gazebo and Ignition libraries that includes a converter (based on `urdfdom`) from URDF to SDF. \[APACHE2]
 
 #### Python
@@ -59,7 +59,7 @@ Libraries to import, export and manipulate URDF files.
 
 ### Resources
 
-* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,656 | 🐛 2 | 📅 2026-09-12 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
+* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,657 | 🐛 2 | 📅 2026-09-12 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
 
 ### Tools
 
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
