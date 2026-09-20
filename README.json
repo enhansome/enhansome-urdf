@@ -370,7 +370,7 @@
                 "open_issues": 19,
                 "owner": "clemense",
                 "repo": "yourdfpy",
-                "stars": 292,
+                "stars": 293,
                 "topics": [
                   "kinematics",
                   "robotics",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:15:26.770Z",
+    "last_updated": "2026-09-20T01:16:14.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
