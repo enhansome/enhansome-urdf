@@ -262,10 +262,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-12T08:29:49Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1660,
+                "stars": 1661,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -515,7 +515,7 @@
                 "open_issues": 0,
                 "owner": "adamheins",
                 "repo": "xacrodoc",
-                "stars": 74,
+                "stars": 75,
                 "topics": [
                   "mjcf",
                   "python",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T01:11:46.519Z",
+    "last_updated": "2026-09-22T01:38:01.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
