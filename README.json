@@ -156,11 +156,11 @@
                     "id": 88333609,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-25T01:31:56Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-09-25T11:02:15Z",
+                    "open_issues": 9,
                     "owner": "openrr",
                     "repo": "urdf-rs",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": [
                       "robot",
                       "robotics",
@@ -337,7 +337,7 @@
                 "open_issues": 36,
                 "owner": "Unity-Technologies",
                 "repo": "URDF-Importer",
-                "stars": 334,
+                "stars": 335,
                 "topics": [
                   "robot",
                   "robot-model",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T01:36:18.019Z",
+    "last_updated": "2026-09-26T01:39:06.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
