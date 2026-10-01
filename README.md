@@ -47,7 +47,7 @@ Libraries to import, export and manipulate URDF files.
 
 #### Rust
 
-* [urdf-rs](https://github.com/openrr/urdf-rs) ⭐ 50 | 🐛 9 | 🌐 Rust | 📅 2026-09-25 - URDF parser using [serde-xml-rs](https://github.com/RReverser/serde-xml-rs) ⭐ 333 | 🐛 38 | 🌐 Rust | 📅 2026-02-05 for Rust. \[APACHE2]
+* [urdf-rs](https://github.com/openrr/urdf-rs) ⭐ 50 | 🐛 9 | 🌐 Rust | 📅 2026-09-25 - URDF parser using [serde-xml-rs](https://github.com/RReverser/serde-xml-rs) ⭐ 334 | 🐛 38 | 🌐 Rust | 📅 2026-02-05 for Rust. \[APACHE2]
 
 #### Julia
 
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
