@@ -53,7 +53,7 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-24T15:11:40Z",
-                    "open_issues": 56,
+                    "open_issues": 55,
                     "owner": "ros",
                     "repo": "urdfdom",
                     "stars": 137,
@@ -370,7 +370,7 @@
                 "open_issues": 19,
                 "owner": "clemense",
                 "repo": "yourdfpy",
-                "stars": 293,
+                "stars": 292,
                 "topics": [
                   "kinematics",
                   "robotics",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:12:25.424Z",
+    "last_updated": "2026-10-02T02:18:49.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
