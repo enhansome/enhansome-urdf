@@ -306,7 +306,7 @@
                 "open_issues": 17,
                 "owner": "openrr",
                 "repo": "urdf-viz",
-                "stars": 590,
+                "stars": 591,
                 "topics": [
                   "assimp",
                   "inverse-kinematics",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:10:54.430Z",
+    "last_updated": "2026-10-04T02:43:33.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
