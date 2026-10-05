@@ -265,7 +265,7 @@
                 "open_issues": 2,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1666,
+                "stars": 1667,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:43:33.019Z",
+    "last_updated": "2026-10-05T02:04:12.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
@@ -570,7 +570,7 @@
       "open_issues": 0,
       "owner": "gbionics",
       "repo": "awesome-urdf",
-      "stars": 165,
+      "stars": 166,
       "topics": [
         "awesome",
         "awesome-list",
