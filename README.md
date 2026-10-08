@@ -32,7 +32,7 @@ Libraries to import, export and manipulate URDF files.
 #### C++
 
 * [iDynTree](https://github.com/robotology/idyntree) ⭐ 234 | 🐛 196 | 🌐 C++ | 📅 2026-07-27 - Library for kinematics and dynamics computation of free-floating robot model, with support for import and export of URDF files. It includes Python and MATLAB bindings. \[BSD]
-* [urdfdom](https://github.com/ros/urdfdom) ⭐ 136 | 🐛 54 | 🌐 C++ | 📅 2026-10-06 - Reference C++ URDF parser implementation mantained by OpenRobotics. \[BSD]
+* [urdfdom](https://github.com/ros/urdfdom) ⭐ 137 | 🐛 54 | 🌐 C++ | 📅 2026-10-06 - Reference C++ URDF parser implementation mantained by OpenRobotics. \[BSD]
 * [sdformat](http://sdformat.org/) - Reference C++ implementation of the SDFormat (Simulation Description Format), used in Gazebo and Ignition libraries that includes a converter (based on `urdfdom`) from URDF to SDF. \[APACHE2]
 
 #### Python
@@ -51,7 +51,7 @@ Libraries to import, export and manipulate URDF files.
 
 #### Julia
 
-* [MeshCatMechanisms.jl](https://github.com/JuliaRobotics/MeshCatMechanisms.jl) ⭐ 43 | 🐛 3 | 🌐 Julia | 📅 2024-12-05 - 3D Visualization of mechanisms and URDFs using [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) ⭐ 253 | 🐛 25 | 🌐 Julia | 📅 2025-10-14 and [RigidBodyDynamics.jl](https://github.com/JuliaRobotics/RigidBodyDynamics.jl) ⭐ 311 | 🐛 40 | 🌐 Julia | 📅 2024-11-08 . \[MIT]
+* [MeshCatMechanisms.jl](https://github.com/JuliaRobotics/MeshCatMechanisms.jl) ⭐ 43 | 🐛 3 | 🌐 Julia | 📅 2024-12-05 - 3D Visualization of mechanisms and URDFs using [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) ⭐ 253 | 🐛 25 | 🌐 Julia | 📅 2025-10-14 and [RigidBodyDynamics.jl](https://github.com/JuliaRobotics/RigidBodyDynamics.jl) ⭐ 312 | 🐛 40 | 🌐 Julia | 📅 2024-11-08 . \[MIT]
 
 #### Go (Golang)
 
@@ -59,13 +59,13 @@ Libraries to import, export and manipulate URDF files.
 
 ### Resources
 
-* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,667 | 🐛 2 | 📅 2026-10-02 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
+* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,668 | 🐛 3 | 📅 2026-10-02 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
 
 ### Tools
 
-* [urdf-viz](https://github.com/openrr/urdf-viz) ⭐ 591 | 🐛 17 | 🌐 Rust | 📅 2026-06-19 - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux. \[APACHE2]
-* [Unity-Technologies/URDF-Importer](https://github.com/Unity-Technologies/URDF-Importer) ⭐ 335 | 🐛 36 | 🌐 C# | 📅 2023-10-02 - URDF Importer allows you to import a robot defined in URDF format in a [Unity scene](https://unity.com). \[APACHE]
-* [yourdfpy](https://github.com/clemense/yourdfpy) ⭐ 292 | 🐛 19 | 🌐 Python | 📅 2026-05-10 - Library and command-line tool to load, visualize, manipulate, validate and save URDF files.
+* [urdf-viz](https://github.com/openrr/urdf-viz) ⭐ 592 | 🐛 17 | 🌐 Rust | 📅 2026-06-19 - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux. \[APACHE2]
+* [Unity-Technologies/URDF-Importer](https://github.com/Unity-Technologies/URDF-Importer) ⭐ 336 | 🐛 36 | 🌐 C# | 📅 2023-10-02 - URDF Importer allows you to import a robot defined in URDF format in a [Unity scene](https://unity.com). \[APACHE]
+* [yourdfpy](https://github.com/clemense/yourdfpy) ⭐ 292 | 🐛 21 | 🌐 Python | 📅 2026-05-10 - Library and command-line tool to load, visualize, manipulate, validate and save URDF files.
 * [URDFly](https://github.com/Democratizing-Dexterous/URDFly) ⭐ 252 | 🐛 5 | 🌐 Python | 📅 2026-03-29 - URDFly is a Python-based toolkit for working with URDF files, providing tools for parsing, visualizing, and analyzing robotic systems defined in URDF format, with a focus on axes visulazation, urdf editing, MDH parameter conversion, kinematics calculation, and dynamics regressor codegen.
 * [URDFormer](https://github.com/WEIRDLabUW/urdformer) ⭐ 205 | 🐛 7 | 🌐 Python | 📅 2024-08-08 - Given an image, URDFormer predicts its corresponding interactive 'digital twin' in the URDF format.
 * [bubblify](https://github.com/bheijden/bubblify) ⭐ 153 | 🐛 2 | 🌐 Python | 📅 2025-09-09 - Bubblify is an interactive tool for creating spherical approximations of robot geometries directly from Universal Robot Description Format (URDF) specifications
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
