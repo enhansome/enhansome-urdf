@@ -265,7 +265,7 @@
                 "open_issues": 3,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1672,
+                "stars": 1674,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -367,10 +367,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-10T07:10:35Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "clemense",
                 "repo": "yourdfpy",
-                "stars": 292,
+                "stars": 295,
                 "topics": [
                   "kinematics",
                   "robotics",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:58:25.133Z",
+    "last_updated": "2026-10-10T02:24:13.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
