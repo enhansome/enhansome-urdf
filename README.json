@@ -484,7 +484,7 @@
                 "open_issues": 9,
                 "owner": "robotology",
                 "repo": "blender-robotics-utils",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "blender",
                   "humanoid-robot",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:24:13.275Z",
+    "last_updated": "2026-10-11T01:58:22.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
