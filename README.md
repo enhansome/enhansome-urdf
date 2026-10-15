@@ -47,7 +47,7 @@ Libraries to import, export and manipulate URDF files.
 
 #### Rust
 
-* [urdf-rs](https://github.com/openrr/urdf-rs) ⭐ 50 | 🐛 9 | 🌐 Rust | 📅 2026-09-25 - URDF parser using [serde-xml-rs](https://github.com/RReverser/serde-xml-rs) ⭐ 334 | 🐛 38 | 🌐 Rust | 📅 2026-02-05 for Rust. \[APACHE2]
+* [urdf-rs](https://github.com/openrr/urdf-rs) ⭐ 50 | 🐛 9 | 🌐 Rust | 📅 2026-09-25 - URDF parser using [serde-xml-rs](https://github.com/RReverser/serde-xml-rs) ⭐ 333 | 🐛 38 | 🌐 Rust | 📅 2026-02-05 for Rust. \[APACHE2]
 
 #### Julia
 
@@ -59,7 +59,7 @@ Libraries to import, export and manipulate URDF files.
 
 ### Resources
 
-* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,678 | 🐛 2 | 📅 2026-10-11 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
+* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,679 | 🐛 2 | 📅 2026-10-11 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
 
 ### Tools
 
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
