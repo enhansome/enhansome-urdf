@@ -23,7 +23,7 @@
                     "open_issues": 197,
                     "owner": "gbionics",
                     "repo": "idyntree",
-                    "stars": 234,
+                    "stars": 233,
                     "topics": [
                       "cxx",
                       "dynamics",
@@ -265,7 +265,7 @@
                 "open_issues": 2,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1685,
+                "stars": 1686,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -337,7 +337,7 @@
                 "open_issues": 36,
                 "owner": "Unity-Technologies",
                 "repo": "URDF-Importer",
-                "stars": 337,
+                "stars": 336,
                 "topics": [
                   "robot",
                   "robot-model",
@@ -442,7 +442,7 @@
                 "open_issues": 2,
                 "owner": "bheijden",
                 "repo": "bubblify",
-                "stars": 154,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:53:53.342Z",
+    "last_updated": "2026-10-21T01:40:46.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
