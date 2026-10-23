@@ -23,7 +23,7 @@
                     "open_issues": 197,
                     "owner": "gbionics",
                     "repo": "idyntree",
-                    "stars": 234,
+                    "stars": 235,
                     "topics": [
                       "cxx",
                       "dynamics",
@@ -52,7 +52,7 @@
                     "id": 12067406,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T13:22:42Z",
+                    "last_commit": "2026-10-22T09:45:02Z",
                     "open_issues": 54,
                     "owner": "ros",
                     "repo": "urdfdom",
@@ -306,7 +306,7 @@
                 "open_issues": 17,
                 "owner": "openrr",
                 "repo": "urdf-viz",
-                "stars": 592,
+                "stars": 593,
                 "topics": [
                   "assimp",
                   "inverse-kinematics",
@@ -337,7 +337,7 @@
                 "open_issues": 36,
                 "owner": "Unity-Technologies",
                 "repo": "URDF-Importer",
-                "stars": 336,
+                "stars": 337,
                 "topics": [
                   "robot",
                   "robot-model",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T01:35:53.170Z",
+    "last_updated": "2026-10-23T01:36:48.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
