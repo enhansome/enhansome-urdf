@@ -20,7 +20,7 @@
                     "language": "C++",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-13T10:36:39Z",
-                    "open_issues": 197,
+                    "open_issues": 198,
                     "owner": "gbionics",
                     "repo": "idyntree",
                     "stars": 234,
@@ -265,7 +265,7 @@
                 "open_issues": 2,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1695,
+                "stars": 1696,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -421,7 +421,7 @@
                 "open_issues": 7,
                 "owner": "WEIRDLabUW",
                 "repo": "urdformer",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:29:24.519Z",
+    "last_updated": "2026-10-30T02:40:11.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
@@ -570,7 +570,7 @@
       "open_issues": 0,
       "owner": "gbionics",
       "repo": "awesome-urdf",
-      "stars": 166,
+      "stars": 167,
       "topics": [
         "awesome",
         "awesome-list",
