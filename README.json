@@ -303,7 +303,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-19T09:02:28Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "openrr",
                 "repo": "urdf-viz",
                 "stars": 592,
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:29:16.879Z",
+    "last_updated": "2026-11-01T02:18:31.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
