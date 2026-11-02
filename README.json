@@ -337,7 +337,7 @@
                 "open_issues": 36,
                 "owner": "Unity-Technologies",
                 "repo": "URDF-Importer",
-                "stars": 337,
+                "stars": 338,
                 "topics": [
                   "robot",
                   "robot-model",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:18:31.769Z",
+    "last_updated": "2026-11-02T02:34:58.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",

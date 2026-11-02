@@ -64,7 +64,7 @@ Libraries to import, export and manipulate URDF files.
 ### Tools
 
 * [urdf-viz](https://github.com/openrr/urdf-viz) ⭐ 592 | 🐛 18 | 🌐 Rust | 📅 2026-06-19 - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux. \[APACHE2]
-* [Unity-Technologies/URDF-Importer](https://github.com/Unity-Technologies/URDF-Importer) ⭐ 337 | 🐛 36 | 🌐 C# | 📅 2023-10-02 - URDF Importer allows you to import a robot defined in URDF format in a [Unity scene](https://unity.com). \[APACHE]
+* [Unity-Technologies/URDF-Importer](https://github.com/Unity-Technologies/URDF-Importer) ⭐ 338 | 🐛 36 | 🌐 C# | 📅 2023-10-02 - URDF Importer allows you to import a robot defined in URDF format in a [Unity scene](https://unity.com). \[APACHE]
 * [yourdfpy](https://github.com/clemense/yourdfpy) ⭐ 296 | 🐛 23 | 🌐 Python | 📅 2026-05-10 - Library and command-line tool to load, visualize, manipulate, validate and save URDF files.
 * [URDFly](https://github.com/Democratizing-Dexterous/URDFly) ⭐ 250 | 🐛 5 | 🌐 Python | 📅 2026-03-29 - URDFly is a Python-based toolkit for working with URDF files, providing tools for parsing, visualizing, and analyzing robotic systems defined in URDF format, with a focus on axes visulazation, urdf editing, MDH parameter conversion, kinematics calculation, and dynamics regressor codegen.
 * [URDFormer](https://github.com/WEIRDLabUW/urdformer) ⭐ 207 | 🐛 7 | 🌐 Python | 📅 2024-08-08 - Given an image, URDFormer predicts its corresponding interactive 'digital twin' in the URDF format.
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
