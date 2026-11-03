@@ -337,7 +337,7 @@
                 "open_issues": 36,
                 "owner": "Unity-Technologies",
                 "repo": "URDF-Importer",
-                "stars": 338,
+                "stars": 339,
                 "topics": [
                   "robot",
                   "robot-model",
@@ -367,7 +367,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-10T07:10:35Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "clemense",
                 "repo": "yourdfpy",
                 "stars": 296,
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T02:34:58.481Z",
+    "last_updated": "2026-11-03T03:56:50.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
