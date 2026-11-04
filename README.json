@@ -23,7 +23,7 @@
                     "open_issues": 198,
                     "owner": "gbionics",
                     "repo": "idyntree",
-                    "stars": 234,
+                    "stars": 235,
                     "topics": [
                       "cxx",
                       "dynamics",
@@ -265,7 +265,7 @@
                 "open_issues": 2,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1695,
+                "stars": 1697,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -337,7 +337,7 @@
                 "open_issues": 36,
                 "owner": "Unity-Technologies",
                 "repo": "URDF-Importer",
-                "stars": 339,
+                "stars": 340,
                 "topics": [
                   "robot",
                   "robot-model",
@@ -367,7 +367,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-10T07:10:35Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "clemense",
                 "repo": "yourdfpy",
                 "stars": 296,
@@ -400,7 +400,7 @@
                 "open_issues": 5,
                 "owner": "Democratizing-Dexterous",
                 "repo": "URDFly",
-                "stars": 250,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
@@ -442,7 +442,7 @@
                 "open_issues": 2,
                 "owner": "bheijden",
                 "repo": "bubblify",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:56:50.318Z",
+    "last_updated": "2026-11-04T03:02:05.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
