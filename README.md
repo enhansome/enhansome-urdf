@@ -32,7 +32,7 @@ Libraries to import, export and manipulate URDF files.
 #### C++
 
 * [iDynTree](https://github.com/robotology/idyntree) ⭐ 235 | 🐛 198 | 🌐 C++ | 📅 2026-10-13 - Library for kinematics and dynamics computation of free-floating robot model, with support for import and export of URDF files. It includes Python and MATLAB bindings. \[BSD]
-* [urdfdom](https://github.com/ros/urdfdom) ⭐ 138 | 🐛 54 | 🌐 C++ | 📅 2026-10-22 - Reference C++ URDF parser implementation mantained by OpenRobotics. \[BSD]
+* [urdfdom](https://github.com/ros/urdfdom) ⭐ 138 | 🐛 56 | 🌐 C++ | 📅 2026-11-05 - Reference C++ URDF parser implementation mantained by OpenRobotics. \[BSD]
 * [sdformat](http://sdformat.org/) - Reference C++ implementation of the SDFormat (Simulation Description Format), used in Gazebo and Ignition libraries that includes a converter (based on `urdfdom`) from URDF to SDF. \[APACHE2]
 
 #### Python
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
