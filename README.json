@@ -265,7 +265,7 @@
                 "open_issues": 2,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1697,
+                "stars": 1698,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -421,7 +421,7 @@
                 "open_issues": 7,
                 "owner": "WEIRDLabUW",
                 "repo": "urdformer",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
@@ -442,7 +442,7 @@
                 "open_issues": 2,
                 "owner": "bheijden",
                 "repo": "bubblify",
-                "stars": 155,
+                "stars": 156,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:32:18.028Z",
+    "last_updated": "2026-11-06T03:28:05.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
