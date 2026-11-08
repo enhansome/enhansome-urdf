@@ -39,7 +39,7 @@ Libraries to import, export and manipulate URDF files.
 
 * [urdf\_parser\_py](https://github.com/ros/urdf_parser_py) ⭐ 108 | 🐛 21 | 🌐 Python | 📅 2025-12-18 - Reference Python URDF parser mantained by OpenRobotics. \[BSD]
 * [odio\_urdf](https://github.com/hauptmech/odio_urdf) ⭐ 106 | 🐛 4 | 🌐 Python | 📅 2023-12-15 - Library for building URDF files using Python. \[MIT]
-* [compas\_robots](https://github.com/compas-dev/compas_robots/) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-08-13 - URDF parser & writer in Python based on the COMPAS framework. \[MIT]
+* [compas\_robots](https://github.com/compas-dev/compas_robots/) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-11-07 - URDF parser & writer in Python based on the COMPAS framework. \[MIT]
 
 #### MATLAB/Simulink
 
@@ -59,7 +59,7 @@ Libraries to import, export and manipulate URDF files.
 
 ### Resources
 
-* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,699 | 🐛 2 | 📅 2026-10-11 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
+* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,700 | 🐛 2 | 📅 2026-10-11 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
 
 ### Tools
 
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
