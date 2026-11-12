@@ -511,7 +511,7 @@
                 "id": 755276393,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-04-20T15:18:19Z",
+                "last_commit": "2026-11-11T03:56:28Z",
                 "open_issues": 0,
                 "owner": "adamheins",
                 "repo": "xacrodoc",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:50:56.374Z",
+    "last_updated": "2026-11-12T03:53:02.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
@@ -567,7 +567,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-05T18:21:25Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "gbionics",
       "repo": "awesome-urdf",
       "stars": 167,
