@@ -23,7 +23,7 @@
                     "open_issues": 198,
                     "owner": "gbionics",
                     "repo": "idyntree",
-                    "stars": 236,
+                    "stars": 237,
                     "topics": [
                       "cxx",
                       "dynamics",
@@ -80,8 +80,8 @@
                     "id": 52289083,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2025-12-18T14:02:09Z",
-                    "open_issues": 21,
+                    "last_commit": "2026-11-17T21:39:58Z",
+                    "open_issues": 19,
                     "owner": "ros",
                     "repo": "urdf_parser_py",
                     "stars": 108,
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T05:07:10.157Z",
+    "last_updated": "2026-11-18T04:31:23.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
@@ -570,7 +570,7 @@
       "open_issues": 1,
       "owner": "gbionics",
       "repo": "awesome-urdf",
-      "stars": 169,
+      "stars": 170,
       "topics": [
         "awesome",
         "awesome-list",

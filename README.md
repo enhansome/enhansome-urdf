@@ -31,13 +31,13 @@ Libraries to import, export and manipulate URDF files.
 
 #### C++
 
-* [iDynTree](https://github.com/robotology/idyntree) ⭐ 236 | 🐛 198 | 🌐 C++ | 📅 2026-10-13 - Library for kinematics and dynamics computation of free-floating robot model, with support for import and export of URDF files. It includes Python and MATLAB bindings. \[BSD]
+* [iDynTree](https://github.com/robotology/idyntree) ⭐ 237 | 🐛 198 | 🌐 C++ | 📅 2026-10-13 - Library for kinematics and dynamics computation of free-floating robot model, with support for import and export of URDF files. It includes Python and MATLAB bindings. \[BSD]
 * [urdfdom](https://github.com/ros/urdfdom) ⭐ 138 | 🐛 56 | 🌐 C++ | 📅 2026-11-05 - Reference C++ URDF parser implementation mantained by OpenRobotics. \[BSD]
 * [sdformat](http://sdformat.org/) - Reference C++ implementation of the SDFormat (Simulation Description Format), used in Gazebo and Ignition libraries that includes a converter (based on `urdfdom`) from URDF to SDF. \[APACHE2]
 
 #### Python
 
-* [urdf\_parser\_py](https://github.com/ros/urdf_parser_py) ⭐ 108 | 🐛 21 | 🌐 Python | 📅 2025-12-18 - Reference Python URDF parser mantained by OpenRobotics. \[BSD]
+* [urdf\_parser\_py](https://github.com/ros/urdf_parser_py) ⭐ 108 | 🐛 19 | 🌐 Python | 📅 2026-11-17 - Reference Python URDF parser mantained by OpenRobotics. \[BSD]
 * [odio\_urdf](https://github.com/hauptmech/odio_urdf) ⭐ 106 | 🐛 4 | 🌐 Python | 📅 2023-12-15 - Library for building URDF files using Python. \[MIT]
 * [compas\_robots](https://github.com/compas-dev/compas_robots/) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-11-07 - URDF parser & writer in Python based on the COMPAS framework. \[MIT]
 
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
