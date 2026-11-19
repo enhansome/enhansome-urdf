@@ -81,7 +81,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-11-17T21:39:58Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "ros",
                     "repo": "urdf_parser_py",
                     "stars": 108,
@@ -265,7 +265,7 @@
                 "open_issues": 2,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1702,
+                "stars": 1704,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -442,7 +442,7 @@
                 "open_issues": 2,
                 "owner": "bheijden",
                 "repo": "bubblify",
-                "stars": 158,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
@@ -463,7 +463,7 @@
                 "open_issues": 11,
                 "owner": "ros",
                 "repo": "xacro",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:19.043Z"
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:31:23.211Z",
+    "last_updated": "2026-11-19T04:15:02.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
