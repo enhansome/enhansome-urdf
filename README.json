@@ -265,7 +265,7 @@
                 "open_issues": 2,
                 "owner": "robot-descriptions",
                 "repo": "awesome-robot-descriptions",
-                "stars": 1704,
+                "stars": 1703,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -306,7 +306,7 @@
                 "open_issues": 18,
                 "owner": "openrr",
                 "repo": "urdf-viz",
-                "stars": 593,
+                "stars": 592,
                 "topics": [
                   "assimp",
                   "inverse-kinematics",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:15:02.276Z",
+    "last_updated": "2026-11-20T04:01:29.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
