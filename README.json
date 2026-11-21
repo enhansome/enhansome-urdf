@@ -20,7 +20,7 @@
                     "language": "C++",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-13T10:36:39Z",
-                    "open_issues": 198,
+                    "open_issues": 199,
                     "owner": "gbionics",
                     "repo": "idyntree",
                     "stars": 237,
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T04:01:29.321Z",
+    "last_updated": "2026-11-21T04:01:35.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
