@@ -31,7 +31,7 @@ Libraries to import, export and manipulate URDF files.
 
 #### C++
 
-* [iDynTree](https://github.com/robotology/idyntree) ⭐ 237 | 🐛 198 | 🌐 C++ | 📅 2026-11-21 - Library for kinematics and dynamics computation of free-floating robot model, with support for import and export of URDF files. It includes Python and MATLAB bindings. \[BSD]
+* [iDynTree](https://github.com/robotology/idyntree) ⭐ 237 | 🐛 194 | 🌐 C++ | 📅 2026-11-23 - Library for kinematics and dynamics computation of free-floating robot model, with support for import and export of URDF files. It includes Python and MATLAB bindings. \[BSD]
 * [urdfdom](https://github.com/ros/urdfdom) ⭐ 138 | 🐛 57 | 🌐 C++ | 📅 2026-11-05 - Reference C++ URDF parser implementation mantained by OpenRobotics. \[BSD]
 * [sdformat](http://sdformat.org/) - Reference C++ implementation of the SDFormat (Simulation Description Format), used in Gazebo and Ignition libraries that includes a converter (based on `urdfdom`) from URDF to SDF. \[APACHE2]
 
@@ -59,11 +59,11 @@ Libraries to import, export and manipulate URDF files.
 
 ### Resources
 
-* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,703 | 🐛 2 | 📅 2026-10-11 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
+* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) ⭐ 1,706 | 🐛 2 | 📅 2026-10-11 - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
 
 ### Tools
 
-* [urdf-viz](https://github.com/openrr/urdf-viz) ⭐ 591 | 🐛 18 | 🌐 Rust | 📅 2026-06-19 - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux. \[APACHE2]
+* [urdf-viz](https://github.com/openrr/urdf-viz) ⭐ 590 | 🐛 18 | 🌐 Rust | 📅 2026-06-19 - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux. \[APACHE2]
 * [Unity-Technologies/URDF-Importer](https://github.com/Unity-Technologies/URDF-Importer) ⭐ 341 | 🐛 36 | 🌐 C# | 📅 2023-10-02 - URDF Importer allows you to import a robot defined in URDF format in a [Unity scene](https://unity.com). \[APACHE]
 * [yourdfpy](https://github.com/clemense/yourdfpy) ⭐ 296 | 🐛 25 | 🌐 Python | 📅 2026-05-10 - Library and command-line tool to load, visualize, manipulate, validate and save URDF files.
 * [URDFly](https://github.com/Democratizing-Dexterous/URDFly) ⭐ 250 | 🐛 5 | 🌐 Python | 📅 2026-03-29 - URDFly is a Python-based toolkit for working with URDF files, providing tools for parsing, visualizing, and analyzing robotic systems defined in URDF format, with a focus on axes visulazation, urdf editing, MDH parameter conversion, kinematics calculation, and dynamics regressor codegen.
@@ -96,4 +96,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
